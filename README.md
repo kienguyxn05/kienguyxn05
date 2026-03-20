@@ -13,8 +13,8 @@
 <!-- Contact Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kienguyxn/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiennht.work@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/nvdekay?label=Follow&style=social)](https://github.com/nvdekay)
-[![Profile Views](https://komarev.com/ghpvc/?username=nvdekay&label=Profile%20views&color=blueviolet&style=flat)](https://github.com/nvdekay)
+[![GitHub followers](https://img.shields.io/github/followers/kienguyxn05?label=Follow&style=social)](https://github.com/kienguyxn05)
+[![Profile Views](https://komarev.com/ghpvc/?username=kienguyxn05&label=Profile%20views&color=blueviolet&style=flat)](https://github.com/kienguyxn05)
 
 </div>
 
@@ -42,9 +42,7 @@ contact:  kiennht.work@gmail.com
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
@@ -56,7 +54,6 @@ contact:  kiennht.work@gmail.com
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -105,8 +102,8 @@ contact:  kiennht.work@gmail.com
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nvdekay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvdekay&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kienguyxn05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kienguyxn05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 ---
@@ -116,19 +113,19 @@ contact:  kiennht.work@gmail.com
 ### 🔥 Streak Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvdekay&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kienguyxn05&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nvdekay&theme=tokyo-night&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kienguyxn05&theme=tokyo-night&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
 
 ### 📅 Contribution Calendar
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/nvdekay" alt="Contribution Calendar" width="100%"/>
+  <img src="https://ghchart.rshah.org/409ba5/kienguyxn05" alt="Contribution Calendar" width="100%"/>
 </div>
 
 ---
@@ -139,9 +136,9 @@ contact:  kiennht.work@gmail.com
 ### 🐍 My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nvdekay/nvdekay/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nvdekay/nvdekay/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nvdekay/nvdekay/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kienguyxn05/kienguyxn05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kienguyxn05/kienguyxn05/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kienguyxn05/kienguyxn05/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
